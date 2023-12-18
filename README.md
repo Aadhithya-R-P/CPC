@@ -1,2 +1,2 @@
 # CPC
-CPC 2023 preparation repository
+CPC preparation repository
