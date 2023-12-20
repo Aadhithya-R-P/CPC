@@ -1,3 +1,4 @@
+//26mins 51sec
 class Solution{
     public:
     int search(int A[], int l, int h, int key){
